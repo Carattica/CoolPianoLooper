@@ -1,0 +1,10 @@
+C:\Users\Keegan\School\SWENG\421\Final Project\PianoLooper\PianoLooper\bin\Debug\PianoLooper.exe.config
+C:\Users\Keegan\School\SWENG\421\Final Project\PianoLooper\PianoLooper\bin\Debug\PianoLooper.exe
+C:\Users\Keegan\School\SWENG\421\Final Project\PianoLooper\PianoLooper\bin\Debug\PianoLooper.pdb
+C:\Users\Keegan\School\SWENG\421\Final Project\PianoLooper\PianoLooper\obj\Debug\PianoLooper.csprojAssemblyReference.cache
+C:\Users\Keegan\School\SWENG\421\Final Project\PianoLooper\PianoLooper\obj\Debug\PianoLooper.Properties.Resources.resources
+C:\Users\Keegan\School\SWENG\421\Final Project\PianoLooper\PianoLooper\obj\Debug\PianoLooper.csproj.GenerateResource.cache
+C:\Users\Keegan\School\SWENG\421\Final Project\PianoLooper\PianoLooper\obj\Debug\PianoLooper.csproj.CoreCompileInputs.cache
+C:\Users\Keegan\School\SWENG\421\Final Project\PianoLooper\PianoLooper\obj\Debug\PianoLooper.exe
+C:\Users\Keegan\School\SWENG\421\Final Project\PianoLooper\PianoLooper\obj\Debug\PianoLooper.pdb
+C:\Users\Keegan\School\SWENG\421\Final Project\PianoLooper\PianoLooper\obj\Debug\PianoLooper.PianoLooper.resources
