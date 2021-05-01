@@ -33,7 +33,6 @@ namespace PianoLooper
             presetsCheckBox.Checked = true;
             state = new Free(this);
             songComboBox.DataSource = songList;
-
         }
 
         private void keyC3_Click(object sender, EventArgs e)

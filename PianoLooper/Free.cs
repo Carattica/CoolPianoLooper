@@ -20,7 +20,7 @@ namespace PianoLooper
         override
         protected void entry()
         {
-            Console.WriteLine("This is playback");
+            Console.WriteLine("This is free");
         }
     }
 }
